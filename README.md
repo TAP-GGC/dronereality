@@ -4,11 +4,12 @@ The [Technical Ambassador Program](https://www.ggc.edu/academics/schools/school-
 ### Team
 
 ## Spring 2020
+***
 
 * Team Name: DroneReality
-  1.  **Vi Nguyen**
-  2.  **Phillip Chazares**
-  3.  **Chenanniah Mac-Cephas**
-  4.  **Zachary Idrees**
+1.  **Vi Nguyen**
+2.  **Phillip Chazares**
+3.  **Chenanniah Mac-Cephas**
+4.  **Zachary Idrees**
   
 
