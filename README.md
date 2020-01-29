@@ -12,4 +12,13 @@ The [Technical Ambassador Program](https://www.ggc.edu/academics/schools/school-
 3.  **Chenanniah Mac-Cephas**
 4.  **Zachary Idrees**
   
+  
+* Team Name: DroneReality
+1. **Anca Doloc Mihu** - Assistant Professor of Information Technology
+2. **Cindy Robertson** - Assistant Professor of Information Technology
 
+## Publications: 
+
+## Outreach Activities
+
+##Technologies
