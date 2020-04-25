@@ -1,0 +1,124 @@
+<project name="rokit-left-right-key-pressed" app="Snap4Arduino 1.0.6 beta http://s4a.cat/snap" version="1">
+    <notes></notes>
+    <thumbnail>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAAB4CAYAAAB1ovlvAAADZ0lEQVR4Xu3YwYrxcRjF8Z+Jcgluhqxcj4VrcSEitkSxtrCxRlnaWfi/+S/Va9Koc+p81awGz/Oc82k0GlVVVYUHCYgSaABQlDxj6wQACARpAgCUxs9wAGJAmgAApfEzHIAYkCYAQGn8DAcgBqQJAFAaP8MBiAFpAgCUxs9wAGJAmgAApfEzHIAYkCYAQGn8DAcgBqQJAFAaP8MBiAFpAgCUxs9wAGJAmgAApfEzHIAYkCYAQGn8DAcgBqQJAFAaP8MBiAFpAgCUxs9wAGJAmgAApfEzHIAYkCYAQGn8DAcgBqQJAFAaP8MBiAFpAgCUxs9wAGJAmgAApfEzHIAYkCYAQGn8DAcgBqQJAFAaP8MBiAFpAgCUxs9wAGJAmgAApfEzHIAYkCYAQGn8DAcgBqQJAFAaP8MBiAFpAgCUxs9wAGJAmgAApfEzHIAYkCYAQGn8DAfgBwbu93vZ7Xal2+1+8Cqe+i4BAL5Jp6qqcjgcynK5LPv9vhyPxzIajcpgMEDVlxIA4EuQl8ulTKfTcj6fy3q9Lu12u/z8/JQnxn6/X4bD4Zei522eCcQDvN1uNbjr9Vrm83lpNpv1z+uj0+mU8XhcGo0Gcr6YAABvtzKZTGqAi8WitFotAH4R2G9vFQ/wNaDT6VRms1n9EbzZbPgI/k3QH38PwDcBPh6P+p+Q1WrFPyF/hPa/lwPwg2CfX8Nst9vS6/U+eBVP5WsYDNgmwF9A22oyFgNgRs+2VwLQtpqMxQCY0bPtlQC0rSZjMQBm9Gx7JQBtq8lYDIAZPdteCUDbajIWA2BGz7ZXAtC2mozFAJjRs+2VALStJmMxAGb0bHslAG2ryVgMgBk9214JQNtqMhYDYEbPtlcC0LaajMUAmNGz7ZUAtK0mYzEAZvRseyUAbavJWAyAGT3bXglA22oyFgNgRs+2VwLQtpqMxQCY0bPtlQC0rSZjMQBm9Gx7JQBtq8lYDIAZPdteCUDbajIWA2BGz7ZXAtC2mozFAJjRs+2VALStJmMxAGb0bHslAG2ryVgMgBk9214JQNtqMhYDYEbPtlcC0LaajMUAmNGz7ZUAtK0mYzEAZvRseyUAbavJWAyAGT3bXglA22oyFgNgRs+2VwLQtpqMxQCY0bPtlQC0rSZjMQBm9Gx7JQBtq8lY7B+bTT63CD5PKAAAAABJRU5ErkJggg==</thumbnail>
+    <stage name="Stage" width="400" height="300" costume="0" tempo="60" threadsafe="false" lines="round" codify="false" inheritance="false" sublistIDs="false" scheduled="false" id="1">
+        <pentrails>data:image/png;base64,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</pentrails>
+        <costumes>
+            <list id="2"></list>
+        </costumes>
+        <sounds>
+            <list id="3"></list>
+        </sounds>
+        <variables></variables>
+        <blocks></blocks>
+        <scripts></scripts>
+        <sprites>
+            <sprite name="Sprite" idx="1" x="-37.5" y="0" heading="270" scale="1" rotation="1" draggable="true" costume="0" color="80,80,80" pen="tip" id="8">
+                <costumes>
+                    <list id="9"></list>
+                </costumes>
+                <sounds>
+                    <list id="10"></list>
+                </sounds>
+                <variables></variables>
+                <blocks></blocks>
+                <scripts>
+                    <script x="140" y="102.28571428571428">
+                        <block s="receiveGo"></block>
+                        <block s="gotoXY">
+                            <l>0</l>
+                            <l>0</l>
+                        </block>
+                        <block s="doForever">
+                            <script>
+                                <block s="doIf">
+                                    <block s="reportKeyPressed">
+                                        <l>
+                                            <option>right arrow</option>
+                                        </l>
+                                    </block>
+                                    <script>
+                                        <block s="setHeading">
+                                            <l>90</l>
+                                        </block>
+                                        <block s="forward">
+                                            <l>.5</l>
+                                        </block>
+                                    </script>
+                                </block>
+                                <block s="doIf">
+                                    <block s="reportKeyPressed">
+                                        <l>
+                                            <option>left arrow</option>
+                                        </l>
+                                    </block>
+                                    <script>
+                                        <block s="setHeading">
+                                            <l>-90</l>
+                                        </block>
+                                        <block s="forward">
+                                            <l>.5</l>
+                                        </block>
+                                    </script>
+                                </block>
+                            </script>
+                        </block>
+                    </script>
+                </scripts>
+            </sprite>
+        </sprites>
+    </stage>
+    <hidden></hidden>
+    <headers></headers>
+    <code>
+        <delim>,</delim>
+        <tempvars_delim>, </tempvars_delim>
+        <string>&quot;&lt;#1&gt;&quot;</string>
+        <receiveGo>void setup() {</receiveGo>
+        <doBroadcastAndWait>  !call!&lt;#1&gt;();</doBroadcastAndWait>
+        <receiveMessage>void &lt;#1&gt;() {</receiveMessage>
+        <doWait>  delay(&lt;#1&gt; * 1000);</doWait>
+        <doWaitUntil>  while(!&lt;#1&gt;){&#xD;  }&#xD;</doWaitUntil>
+        <doForever>}&#xD;&#xD;void loop() {&#xD;  &lt;#1&gt;&#xD;}</doForever>
+        <doRepeat>  for (int i = 0; i &lt; &lt;#1&gt;; i++) {&#xD;  &lt;#2&gt;&#xD;  }</doRepeat>
+        <doUntil>  while(!&lt;#1&gt;){&#xD;  &lt;#2&gt;&#xD;  }</doUntil>
+        <doIf>  if (&lt;#1&gt;) {&#xD;  &lt;#2&gt;&#xD;}</doIf>
+        <doIfElse>  if (&lt;#1&gt;) {&#xD;  &lt;#2&gt;&#xD;} else {&#xD;  &lt;#3&gt;&#xD;}</doIfElse>
+        <reportSum>(&lt;#1&gt; + &lt;#2&gt;)</reportSum>
+        <reportDifference>(&lt;#1&gt; - &lt;#2&gt;)</reportDifference>
+        <reportProduct>(&lt;#1&gt; * &lt;#2&gt;)</reportProduct>
+        <reportQuotient>(&lt;#1&gt; / &lt;#2&gt;)</reportQuotient>
+        <reportModulus>(&lt;#1&gt; % &lt;#2&gt;)</reportModulus>
+        <reportRound>round(&lt;#1&gt;)</reportRound>
+        <reportMonadic>s4a.math(&lt;#1&gt;,&lt;#2&gt;)</reportMonadic>
+        <reportRandom>random(&lt;#1&gt;, &lt;#2&gt;+1)</reportRandom>
+        <reportLessThan>(&lt;#1&gt; &lt; &lt;#2&gt;)</reportLessThan>
+        <reportEquals>(&lt;#1&gt; == &lt;#2&gt;)</reportEquals>
+        <reportGreaterThan>(&lt;#1&gt; &gt; &lt;#2&gt;)</reportGreaterThan>
+        <reportAnd>(&lt;#1&gt; &amp;&amp; &lt;#2&gt;)</reportAnd>
+        <reportOr>(&lt;#1&gt; || &lt;#2&gt;)</reportOr>
+        <reportNot>!(&lt;#1&gt;)</reportNot>
+        <reportBoolean>&lt;#1&gt;</reportBoolean>
+        <doSetVar>  &lt;#1&gt; = &lt;#2&gt;;</doSetVar>
+        <doChangeVar>  &lt;#1&gt; += &lt;#2&gt;;</doChangeVar>
+        <doDeclareVariables>int &lt;#1&gt; = 0;</doDeclareVariables>
+        <sendData>SmartDroneControl.send();</sendData>
+        <throttle>THROTTLE = &lt;#1&gt;;</throttle>
+        <yaw>YAW = &lt;#1&gt;;</yaw>
+        <pitch>PITCH = &lt;#1&gt;;</pitch>
+        <roll>ROLL = &lt;#1&gt;;</roll>
+        <pushEvent>SmartDroneControl.event = &lt;#1&gt;;</pushEvent>
+        <pushTrim>SmartDroneControl.event = &lt;#1&gt;;</pushTrim>
+        <setServo>servo&lt;#1&gt;.write(&lt;#2&gt;);</setServo>
+        <setDigitalPin>digitalWrite(&lt;#1&gt;, &lt;#2&gt;));</setDigitalPin>
+        <setAnalogPin>analogWrite(&lt;#1&gt;, &lt;#2&gt;));</setAnalogPin>
+        <analogReading>analogRead(&lt;#1&gt;);</analogReading>
+        <digitalReading>digitalRead(&lt;#1&gt;);</digitalReading>
+        <sevenSensor>sevenSensor();</sevenSensor>
+        <IRRemocon>SmartInventor.RFRemoconData();</IRRemocon>
+        <setDCmotor>SmartInventor.DCmotor(&lt;#1&gt;, &lt;#2&gt; ,&lt;#3&gt;);</setDCmotor>
+        <setTone>tone(7, &lt;#1&gt;, &lt;#2&gt;);</setTone>
+    </code>
+    <blocks></blocks>
+    <variables></variables>
+</project>
