@@ -33,7 +33,7 @@ Classroom Workshops - on April 14, April 20, and another on April 20 3 occasions
 ![Drone Kit](Media/RokitBrick_example.PNG)
 
 ## Usage
-![Drone Kit](Media/RokitBrick_example_with_HighLights.PNG)
+![Drone Kit](Media/RokitBrick_example_with_HighLights.png)
 1. 
 2. 
 3. 
