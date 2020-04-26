@@ -1,5 +1,6 @@
 # Drone Reality
-The [Technical Ambassador Program](https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/), an Outreach research
+## Project Description
+The [Technical Ambassador Program](https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/), an Outreach research program to improve technological literacy- in order to engage and teach students about new technologies and algorithmic thinking. Usually students would see codes as unknown text that is too difficult to read making most students turn away from code without giving it a try. Coding is fun and with Drones we can show students how fun coding really is. Being able to fly drones however they like will give them tons of creative freedom.
 
 ### Team
 
