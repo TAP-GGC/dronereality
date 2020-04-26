@@ -25,7 +25,7 @@ Classroom Workshops - on April 14, April 20, and another on April 20 3 occasions
 ##Technologies
 * CoDrone by RoboLink
 * https://www.robolink.com/codrone/
-![Drone Kit](Media/CoDrone_Full_Kit.png)
+![Drone Kit](/Media/CoDrone_Full_Kit.png)
 
 ##Project Setup/Installation
 1. Download RokitBrick for CoDrone
