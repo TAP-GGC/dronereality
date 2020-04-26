@@ -29,7 +29,7 @@ Classroom Workshops - on April 14, April 20, and another on April 20 3 occasions
 
 ## Project Setup/Installation
 1. Download RokitBrick for CoDrone
-* http://robolink.co.kr/download_eng.html
+  * http://robolink.co.kr/download_eng.html
 ![Drone Kit](Media/RokitBrick_example.PNG)
 
 ## Usage
