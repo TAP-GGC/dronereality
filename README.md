@@ -23,14 +23,18 @@ The [Technical Ambassador Program](https://www.ggc.edu/academics/schools/school-
 Classroom Workshops - on April 14, April 20, and another on April 20 3 occasions, to promote IT field to non-IT college students
 
 ## Technologies
-* CoDrone by RoboLink
+### CoDrone by RoboLink
 * https://www.robolink.com/codrone/
 ![Drone Kit](Media/CoDrone_Full_Kit.PNG)
+
+### RokitBrick for CoDrone
+* RokitBrick is an IDE made for the CoDrone, it includes a Drone simulation
+* https://www.robolink.com/rokit-brick-codrone/
+![Drone Kit](Media/RokitBrick_example.PNG)
 
 ## Project Setup/Installation
 1. Download RokitBrick for CoDrone
   * http://robolink.co.kr/download_eng.html
-![Drone Kit](Media/RokitBrick_example.PNG)
 
 ## Usage
 ![Drone Kit](Media/RokitBrick_example_with_HighLights.png)
