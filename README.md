@@ -40,7 +40,7 @@ Classroom Workshops - on April 14, April 20, and another on April 20 3 occasions
 
 ## Usage
 ![Drone Kit](Media/RokitBrick_example_with_HighLights.png)
-1. This window contains motion coding blocks that can dragged and dropped in box 2.
-2. These is programming script used to control the arrow pointer in box 3.
-3. This window is the area of movement for the programmable sprite arrow.
-4. This window contains tabs to change box 1 for different coding blocks and allows users to select app settings.
+1. This window contains motion coding blocks that can be dragged and dropped in box 2.
+2. This is a programming script used to control the arrow pointer in box 3.
+3. This window contains the area of movement for the programmable arrow pointer.
+4. This window contains coding tabs to changing box 1 and contains tabs for RokitBrick settings.
