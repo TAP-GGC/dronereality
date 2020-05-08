@@ -2,7 +2,7 @@
 ## Project Description
 The [Technical Ambassador Program](https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/), an Outreach research program to improve technological literacy- in order to engage and teach students about new technologies and algorithmic thinking. Normally students would see code as unknown text that is too difficult to read which will turn most them away from coding before giving it a chance. However, coding is fun and with Drones we can show students how fun coding really is. Being able to fly drones however they like will give them tons of creative freedom. They will be able to have fun trying out different coding techniques with block coding and the best part is that they can easily see what their code does with the drone app RoKitBrick for Codrone. The app can connect with actual drones as well so if they happen to have a drone flying them is possible with the app. 
 * [Having Fun and Learning through Drones](https://www.youtube.com/watch?v=VeJIbEyXcyA&feature=youtu.be)
-
+* [Flying a drone through a hoop](https://www.youtube.com/watch?v=11Bljd7Lohs)
 ### Team
 
 ## Spring 2020
@@ -19,10 +19,11 @@ The [Technical Ambassador Program](https://www.ggc.edu/academics/schools/school-
 1. **Anca Doloc Mihu** - Assistant Professor of Information Technology
 2. **Cindy Robertson** - Assistant Professor of Information Technology
 
-## Publications: 
-
 ## Outreach Activities
 Classroom Workshops - on April 14, April 20, and another on April 20 3 occasions, to promote IT field to non-IT college students
+
+## Results
+picture of results
 
 ## Technologies
 ### CoDrone by RoboLink
