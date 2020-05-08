@@ -23,7 +23,15 @@ The [Technical Ambassador Program](https://www.ggc.edu/academics/schools/school-
 Classroom Workshops - on April 14, April 20, and another on April 20 3 occasions, to promote IT field to non-IT college students
 
 ## Results
-picture of results
+### Demographics & Pre-Survey Results: 
+Our study had  was conducted with 68 college students, the majority consisting of Sophomores and Juniors between the ages  18-23. In the beginning of our workshop 69% of students had no  programming experience. Over 50% of students reported they had no or vague knowledge what a for loop is. While strangely, 64.7% reported had knowledge what an if else statement was . Originally there was no indication whether or not students wanted to learn technology.
+### Post-Survey & Conclusions: 
+Outstanding after the  workshop  86.8% and 77.1%  of students reported that they knew  if/else statements and  for loops. After the workshop 84% of students indicated they would consider or would pursue learning new technologies. In conclusion, we were able to teach fundamental programming skills and inspire a large demographic of students with no programming skills to consider seeking out information technology courses.
+![experience](Media/experience.png) 
+![ifElse](Media/ifElse.png) 
+![forLoops](Media/forLoop.png) 
+![difficulty](Media/difficulty.png) 
+
 
 ## Technologies
 ### CoDrone by RoboLink
