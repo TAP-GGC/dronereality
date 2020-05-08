@@ -30,7 +30,9 @@ Outstanding after the  workshop  86.8% and 77.1%  of students reported that they
 ![experience](Media/experience.png) 
 ![ifElse](Media/ifElse.png) 
 ![forLoops](Media/forLoop.png) 
-![difficulty](Media/difficulty.png) 
+<p align="center">
+  <img src="Media/difficulty.png">
+</p>
 
 
 ## Technologies
