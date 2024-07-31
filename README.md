@@ -3,14 +3,14 @@
 - Difficulty Level: Intermediate <br>
 - Target Audience: Middle School and Up <br>
 - Duration of workshop: Approximately 1 Hour <br>
-- Needed Materials: Codrone Lite, Computer with bluetooth support. <br>
-- Using Codrone Lites, the aim of this project is to teach others about basic programming concepts through changing the behavior of the drones with block coding. <br>
-- Codrones are small and simple drones that are designed to be programmable in various languages including block coding and python.
+- Needed Materials: CoDrone Lite, Computer with bluetooth support. <br>
+- Using CoDrones, the aim of this project is to teach others about basic programming concepts through changing the behavior of the drones with block coding. <br>
+- CoDrones are small and simple drones that are designed to be programmable in various languages including block coding and python.
 
 [Having Fun and Learning through Drones](https://www.youtube.com/watch?v=VeJIbEyXcyA&feature=youtu.be)<br>
 [Flying a drone through a hoop](https://www.youtube.com/watch?v=11Bljd7Lohs)
 
-## Team (Spring 2020)
+## Team
 ### Members <br>
 - Chenanniah Mac-Cephas <br>
 - Phillip Chazares <br>
