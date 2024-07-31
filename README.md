@@ -1,26 +1,30 @@
-# Drone Reality
-## Project Description
-The [Technical Ambassador Program](https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/), an Outreach research program to improve technological literacy- in order to engage and teach students about new technologies and algorithmic thinking. Normally students would see code as unknown text that is too difficult to read which will turn most them away from coding before giving it a chance. However, coding is fun and with Drones we can show students how fun coding really is. Being able to fly drones however they like will give them tons of creative freedom. They will be able to have fun trying out different coding techniques with block coding and the best part is that they can easily see what their code does with the drone app RoKitBrick for Codrone. The app can connect with actual drones as well so if they happen to have a drone flying them is possible with the app. 
-* [Having Fun and Learning through Drones](https://www.youtube.com/watch?v=VeJIbEyXcyA&feature=youtu.be)
-* [Flying a drone through a hoop](https://www.youtube.com/watch?v=11Bljd7Lohs)
-### Team
+# Using Drones and Block Coding to Teach Basic Programming
+## Description
+- Difficulty Level: Intermediate <br>
+- Target Audience: Middle School and Up <br>
+- Duration of workshop: Approximately 1 Hour <br>
+- Needed Materials: Codrone Lite, Computer with bluetooth support. <br>
+- Using Codrone Lites, the aim of this project is to teach others about basic programming concepts through changing the behavior of the drones with block coding. <br>
+- Codrones are small and simple drones that are designed to be programmable in various languages including block coding and python.
 
-## Spring 2020
-***
+[Having Fun and Learning through Drones](https://www.youtube.com/watch?v=VeJIbEyXcyA&feature=youtu.be)<br>
+[Flying a drone through a hoop](https://www.youtube.com/watch?v=11Bljd7Lohs)
 
-* Team Name: DroneReality
-1.  **Vi Nguyen**
-2.  **Phillip Chazares**
-3.  **Chenanniah Mac-Cephas**
-4.  **Zachary Idrees**
-  
-  
-* Team Name: DroneReality
-1. **Anca Doloc Mihu** - Assistant Professor of Information Technology
-2. **Cindy Robertson** - Assistant Professor of Information Technology
+## Team (Spring 2020)
+### Members <br>
+- Chenanniah Mac-Cephas <br>
+- Phillip Chazares <br>
+- Vi Nguyen <br>
+- Zachary Idrees <br>
+
+### Advisors <br>
+- Dr. Anca Doloc Mihu <br>
+- Dr. Cindy Robertson <br>
+
 
 ## Outreach Activities
-Classroom Workshops - on April 14, April 20, and another on April 20 3 occasions, to promote IT field to non-IT college students
+1. Classroom Workshops on Apr 14, Apr 20, and Apr 20, 2020: workshop demo to 1001 level IT students at GGC, to spark interests in IT and STEM
+
 
 ## Results
 ### Demographics & Pre-Survey Results: 
