@@ -42,4 +42,4 @@
 
 ## Workshop Instructions
 For instructions on how to do our workshop please use the pdf file linked below.<br>
-![Workshop Walkthrough](Media/Drone%20Reality%20Workshop%20Walkthrough.docx)
+![Workshop Walkthrough](Media/Drone%20Reality%20Workshop%20Walkthrough.pdf)
