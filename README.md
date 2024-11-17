@@ -43,3 +43,8 @@
 ## Workshop Instructions
 For instructions on how to do our workshop please use the pdf file linked below.<br>
 ![Workshop Walkthrough](Media/Drone%20Reality%20Workshop%20Walkthrough.pdf)
+
+## Workshop Video
+https://github.com/user-attachments/assets/5c1bc88b-43cf-4726-a772-bbca884ad643
+
+
