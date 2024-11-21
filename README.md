@@ -41,10 +41,19 @@
 2. Pair to CoDrone
 
 ## Workshop Instructions
-For instructions on how to do our workshop please use the pdf file linked below.<br>
+For instructions on how to complete our workshop please use the pdf file linked below.<br>
 ![Workshop Walkthrough](Media/Drone%20Reality%20Workshop%20Walkthrough.pdf)
 
 ## Workshop Video
 https://github.com/user-attachments/assets/5c1bc88b-43cf-4726-a772-bbca884ad643
+
+## Advanced Workshop Instructions
+For instructions on how to complete our advanced workshop please use the pdf file linked below.<br>
+![Workshop Walkthrough](Media/Drone%20Reality%20Advanced%20Workshop%20Walkthrough.pdf)
+
+## Advanced Workshop Video
+https://github.com/user-attachments/assets/a45d3426-b399-4996-87ee-0c864896dc87
+
+
 
 
